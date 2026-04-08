@@ -48,26 +48,19 @@ In einer Bestelltabelle kann `kunden_id` als Fremdschlüssel gespeichert werden.
 
 ## Wichtige SQL-Befehle im Überblick
 
-### SELECT
-Mit `SELECT` werden Daten aus einer Tabelle abgefragt.
+- Mit `SELECT` werden Daten aus einer Tabelle abgefragt.
 
-### INSERT
-Mit `INSERT` werden neue Datensätze eingefügt.
+- Mit `INSERT` werden neue Datensätze eingefügt.
 
-### UPDATE
-Mit `UPDATE` werden bestehende Datensätze geändert.
+- Mit `UPDATE` werden bestehende Datensätze geändert.
 
-### DELETE
-Mit `DELETE` werden Datensätze gelöscht.
+- Mit `DELETE` werden Datensätze gelöscht.
 
-### CREATE TABLE
-Mit `CREATE TABLE` wird eine neue Tabelle erstellt.
+- Mit `CREATE TABLE` wird eine neue Tabelle erstellt.
 
-### ALTER TABLE
-Mit `ALTER TABLE` wird eine bestehende Tabelle verändert.
+- Mit `ALTER TABLE` wird eine bestehende Tabelle verändert.
 
-### DROP TABLE
-Mit `DROP TABLE` wird eine Tabelle gelöscht.
+- Mit `DROP TABLE` wird eine Tabelle gelöscht.
 
 ## Mein aktueller Lernstand
 
