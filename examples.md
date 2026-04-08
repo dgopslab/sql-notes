@@ -11,6 +11,7 @@ FROM kunde;
 Dieses Beispiel gibt den Vor- und Nachnamen aller Kunden aus.
 
 # SELECT mit WHERE
+
 ```sql
 SELECT titel, preis
 FROM buch
@@ -19,6 +20,7 @@ WHERE preis > 20;
 Dieses Beispiel zeigt alle Bücher mit einem Preis größer als 20.
 
 # SELECT mit ORDER BY
+
 ´´´sql
 SELECT titel, preis
 FROM buch
@@ -27,6 +29,7 @@ ORDER BY preis ASC;
 Dieses Beispiel sortiert die Bücher aufsteigend nach Preis.
 
 # INNER JOIN
+
 ´´´sql
 SELECT kunde.vorname, bestellung.bestellung_id
 FROM kunde
@@ -36,6 +39,7 @@ ON kunde.kunden_id = bestellung.kunden_id;
 Dieses Beispiel zeigt, welcher Kunde welche Bestellung aufgegeben hat.
 
 # Beispiel für eine n:m-Beziehung
+
 ´´´sql
 SELECT bestellung.bestellung_id, buch.titel, bestellposition.menge
 FROM bestellposition
