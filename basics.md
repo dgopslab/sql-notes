@@ -32,7 +32,7 @@ Daten werden oft auf mehrere Tabellen verteilt, um:
 Ein Beispiel:
 Statt Kundendaten bei jeder Bestellung neu zu speichern, kann man Kunden und Bestellungen in getrennten Tabellen speichern und über eine Beziehung verbinden.
 
-### Primärschlüssel
+## Primärschlüssel
 
 Ein Primärschlüssel dient dazu, einen Datensatz innerhalb einer Tabelle eindeutig zu identifizieren.
 
