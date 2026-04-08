@@ -32,14 +32,14 @@ Daten werden oft auf mehrere Tabellen verteilt, um:
 Ein Beispiel:
 Statt Kundendaten bei jeder Bestellung neu zu speichern, kann man Kunden und Bestellungen in getrennten Tabellen speichern und über eine Beziehung verbinden.
 
-## Primärschlüssel
+### Primärschlüssel
 
 Ein Primärschlüssel dient dazu, einen Datensatz innerhalb einer Tabelle eindeutig zu identifizieren.
 
 Beispiel:
 Jeder Kunde hat eine eindeutige `kunden_id`.
 
-## Fremdschlüssel
+### Fremdschlüssel
 
 Ein Fremdschlüssel stellt eine Verbindung zu einer anderen Tabelle her.
 
