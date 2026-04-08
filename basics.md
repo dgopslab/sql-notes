@@ -39,7 +39,7 @@ Ein Primärschlüssel dient dazu, einen Datensatz innerhalb einer Tabelle eindeu
 Beispiel:
 Jeder Kunde hat eine eindeutige `kunden_id`.
 
-### Fremdschlüssel
+## Fremdschlüssel
 
 Ein Fremdschlüssel stellt eine Verbindung zu einer anderen Tabelle her.
 
