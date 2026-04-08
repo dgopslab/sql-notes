@@ -48,8 +48,6 @@ In einer Bestelltabelle kann `kunden_id` als Fremdschlüssel gespeichert werden.
 
 ## Wichtige SQL-Befehle im Überblick
 
-## Wichtige SQL-Befehle im Überblick
-
 - `SELECT` – fragt Daten aus einer Tabelle ab
 - `INSERT` – fügt neue Datensätze ein
 - `UPDATE` – ändert bestehende Datensätze
