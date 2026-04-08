@@ -1,6 +1,12 @@
 # SQL Notes
 
 Dieses Repository dient dazu, meine Lernnotizen, Übungen und Grundlagen im Bereich **SQL** und **relationale Datenbanken** strukturiert festzuhalten.
+## Inhalte
+
+- [Basics](basics.md)
+- [Data Modeling](data-modeling.md)
+- [Joins](joins.md)
+- [Examples](examples.md)
 
 ## Inhalte
 Aktuell sammle ich hier vor allem Grundlagen zu:
