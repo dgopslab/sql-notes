@@ -1,6 +1,6 @@
 # Joins
 
-## Warum JOINs wichtig sind
+## Warum JOINs wichtig sind?
 
 In relationalen Datenbanken liegen zusammengehörige Informationen oft nicht in nur einer Tabelle, sondern verteilt auf mehrere Tabellen.
 
@@ -27,7 +27,7 @@ FROM kunde
 INNER JOIN bestellung
 ON kunde.kunden_id = bestellung.kunden_id;
 ```
-## Was bei einem JOIN verbunden wird
+## Was bei einem JOIN verbunden wird?
 
 Die Verbindung erfolgt meistens über einen **Primärschlüssel** und einen dazugehörigen **Fremdschlüssel**.
 
